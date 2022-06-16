@@ -38,6 +38,12 @@
 		<em>e-mail</em>
 	</a> &bull;
 	<a 
+	   href="https://bondopangaji.me"
+	   target="_blank" 
+	   />
+		<em>website</em>
+	</a> &bull;
+	<a 
 	   href="https://linkedin.com/in/bondopangaji"
 	   target="_blank" 
 	  />
