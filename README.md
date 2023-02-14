@@ -27,7 +27,7 @@
 </h1>
 
 <p align="center">
-	I built things
+	I wrote code
 </p>
 
 <p align="center">
