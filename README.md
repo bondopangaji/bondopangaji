@@ -38,7 +38,7 @@
 		<em>e-mail</em>
 	</a> &bull;
 	<a 
-	   href="https://bondopangaji.me"
+	   href="https://bondopangaji.github.io/"
 	   target="_blank" 
 	   />
 		<em>website</em>
